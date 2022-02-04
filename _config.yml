@@ -25,7 +25,7 @@ description: "Linking Speech and Visual Objects to Support Communication in Asyn
 syslogo: /assets/img/winder_logo.svg
 syscolor: "#7354f3"
 sysfont: Lato
-video: https://drive.google.com/file/d/1Iw-GVOpkdJn7SZqjIMyAKRFRz4b5F-Yi/preview
+video: https://www.youtube.com/embed/_Y0d_uyA6XA
 
 plugins:
   - jekyll-feed

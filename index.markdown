@@ -66,6 +66,8 @@ T5M2: *"With the voice recordings and the feature that showed what the users cli
 
 [Link to the PDF][1]
 
+[ACM DL Link][2]
+
 ## Bibtex
 <pre>
 @inproceedings{10.1145/3411764.3445686,
@@ -78,11 +80,11 @@ T5M2: *"With the voice recordings and the feature that showed what the users cli
   url = {https://doi.org/10.1145/3411764.3445686},
   doi = {10.1145/3411764.3445686},
   booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
-  pages = {1–17},
+  articleno = {453},
   numpages = {17},
-  keywords = {Team Collaboration; Asynchronous Communication; Speech; Voice; Multimodal Input; Visual Document; User Interface Design},
+  keywords = {Visual Document, Team Collaboration, Speech, User Interface Design., Multimodal Input, Asynchronous Communication, Voice},
   location = {Yokohama, Japan},
-  series = {CHI ’21}
+  series = {CHI '21}
 }
 </pre>
 
@@ -97,3 +99,4 @@ This research was supported by the [KAIST](https://kaist.ac.kr) UP Program.
 
 
 [1]:https://kixlab.github.io/website-files/2021/chi2021-Winder-paper.pdf
+[2]:https://dl.acm.org/doi/10.1145/3411764.3445686
