@@ -80,14 +80,14 @@ We present a computational pipeline that processes the two input modalities, <sp
 
 ## Results
 
-Through a between-subjects study (N=40), we compared <span style="color:{{site.syscolor}}">Stylette</span> to Chrome DevTools through (Task 1) a well-defined task and (Task 2) an open-ended task.
+Through a between-subjects study (N=40), we compared <span style="color:{{site.syscolor}}">Stylette</span> to Chrome DevTools through two tasks: (1) a well-defined task and (2) an open-ended task.
 
 {: .img-left}
 ![Bar chart on the left shows that the self-confidence of Stylette participants initially increased, but decreased later during the study. Bar chart on the right shows that self-confidence of DevTools participants increased initially and also slightly increased later in the study. Specific self-confidence ratings are included in the text.](/assets/img/comprehensive.png)
 
 {: .text-right}
 Self-confidence increased significantly after Task 1 for both conditions. However, self-confidence decreased significantly for <span style="color:{{site.syscolor}}">Stylette</span> participants after Task 2, but did not change significantly for DevTools participants.<br/><br/>
-The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s interpretation of users' vague requests could help them quickly learn how to use CSS. However, once users had acquired the knowledge, the ML-related errors significantly limited their interaction. 
+The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s interpretation of users' vague requests could help them quickly learn how to use CSS. Once users had acquired the knowledge, however, ML-related flaws could significantly limit their interactions. 
 
 
 ------
