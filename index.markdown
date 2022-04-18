@@ -92,9 +92,9 @@ The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s 
 
 ------
 
-## CHI 2022 Paper (Camera-ready)
+## CHI 2022 Paper &nbsp;&nbsp;<span style="background-color:{{site.syscolor}}33">&nbsp;Honorable Mention Award&nbsp;</span>
 
-[Link to the PDF][1]
+[Camera-ready PDF][1]
 
 ## Bibtex
 <pre>
