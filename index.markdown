@@ -28,7 +28,7 @@ For each property, the *palettes* presents: <br/><br/>
 <span style="color:#0075b9">**(d)**</span> For numerical values, suggested values that are either larger or smaller than the current value based on the system's prediction.<br/>
 <span style="color:#0075b9">**(e)**</span> Arrows next to a suggested value to see other similar suggestions. <br/>
 <span style="color:#0075b9">**(f)**</span> If the user clicks on the "+" button, more suggestions are shown.<br/>
-<span style="color:#0075b9">**(g)**</span> If the user clicks on the current value, widgets are revealed to manually set values: input box for numerical properties (e.g., *font-size*), drop-down menu for nominal properties (e.g., *font-family*), or color picker for colors.
+<span style="color:#0075b9">**(g)**</span> If the user clicks on the current value, widgets are revealed for the user to manually set values.
 
 ------
 
@@ -86,7 +86,7 @@ Through a between-subjects study (N=40), we compared <span style="color:{{site.s
 ![Bar chart on the left shows that the self-confidence of Stylette participants initially increased, but decreased later during the study. Bar chart on the right shows that self-confidence of DevTools participants increased initially and also slightly increased later in the study. Specific self-confidence ratings are included in the text.](/assets/img/comprehensive.png)
 
 {: .text-right}
-Self-confidence increased significantly after Task 1 for both conditions. However, self-confidence decreased significantly for <span style="color:{{site.syscolor}}">Stylette</span> participants after Task 2, but did not change significantly for DevTools participants.<br/><br/>
+Self-confidence increased significantly after Task 1 for both conditions. But, self-confidence decreased significantly only for <span style="color:{{site.syscolor}}">Stylette</span> participants after Task 2.<br/><br/>
 The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s interpretation of users' vague requests could help them quickly learn how to use CSS. Once users had acquired the knowledge, however, ML-related flaws could significantly limit their interactions. 
 
 
