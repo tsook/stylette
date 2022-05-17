@@ -95,6 +95,7 @@ The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s 
 ## CHI 2022 Paper &nbsp;&nbsp;<span style="background-color:{{site.syscolor}}33; padding: 4px 0; border-radius: 8px">&nbsp;<i class="fa-solid fa-medal" style="margin-right: 4px"></i>Honorable Mention Award&nbsp;</span>
 
 [Camera-ready PDF][1]
+[ACM DL Link][2]
 
 ## Bibtex
 <pre>
@@ -127,3 +128,4 @@ This work was supported by IITP grant funded by the Korea government (MSIT) and 
 
 
 [1]:https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf
+[2]:https://dl.acm.org/doi/10.1145/3491102.3501931
