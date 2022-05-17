@@ -107,9 +107,10 @@ The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s 
   address = {New York, NY, USA},
   url = {https://doi.org/10.1145/3491102.3501931},
   doi = {10.1145/3491102.3501931},
-  booktitle = {Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems},
+  booktitle = {CHI Conference on Human Factors in Computing Systems},
+  articleno = {5},
   numpages = {17},
-  keywords = {Web Design; Natural Language Interface; End-User Programming; Machine Learning},
+  keywords = {End-User Programming, Web Design, Machine Learning, Natural Language Interface},
   location = {New Orleans, LA, USA},
   series = {CHI '22}
 }
