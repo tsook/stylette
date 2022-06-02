@@ -95,6 +95,7 @@ The study revealed that <span style="color:{{site.syscolor}}">Stylette</span>'s 
 ## CHI 2022 Paper &nbsp;&nbsp;<span style="background-color:{{site.syscolor}}33; padding: 4px 0; border-radius: 8px">&nbsp;<i class="fa-solid fa-medal" style="margin-right: 4px"></i>Honorable Mention Award&nbsp;</span>
 
 [Camera-ready PDF][1]
+
 [ACM DL Link][2]
 
 ## Bibtex
